@@ -1,1 +1,0 @@
-print("lab4 web")
