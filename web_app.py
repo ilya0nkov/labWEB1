@@ -1,5 +1,5 @@
 from fastapi import APIRouter, HTTPException, Depends
-import model  # Модель, которая была написана ранее
+import model
 import json
 from typing import Dict, List
 from datetime import datetime
